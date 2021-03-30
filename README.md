@@ -1,4 +1,4 @@
-# git rebase 실습용 repository
+# Git Rebase 실습용 repository
 
 ## 진행 방법
 
