@@ -1,6 +1,6 @@
 # Git Rebase 실습용 repository
 
-## 진행 방법
+## 진행 방법 
 
 - 원하는 directory로 이동 후 해당 repo를 clone 받아주세요.
 - `feature/본인이름` 브랜치를 생성해주세요.
