@@ -1,3 +1,10 @@
+2
+1
+gogod
+fkdkdkf
+gigig
+wecode
+wanted
 ㅎㅎ
 asdf
 ddd
