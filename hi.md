@@ -1,9 +1,5 @@
 asdfasdf
 ㅎㅎ
-ddd
-
-aasdf
-
-
-a
-sdfasdf
+asdf
+ddddddㄴㄴㄴ
+ㅇㅇ
