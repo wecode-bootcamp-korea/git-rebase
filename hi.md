@@ -1,9 +1,3 @@
+asldkfj;aslkdfjㅎㅎ
 asdfasdf
-ㅎㅎ
-ddd
-
-aasdf
-
-
-a
-sdfasdf
+asdfasdfddd
