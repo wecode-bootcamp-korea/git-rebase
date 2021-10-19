@@ -1,9 +1,4 @@
-asdfasasdsadf
-ㅎㅎasdasd
-dddsad
-123213a
-aasdasdsdsadf
 213
-21323
-a213
-sdfasdf
+asdfasdf
+ㅎㅎ
+ddd11sdfasdf
