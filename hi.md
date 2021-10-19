@@ -1,9 +1,3 @@
-asdfasdf
-ㅎㅎ
-ddd
-
-aasdf
-
-
-a
-sdfasdf
+yoyoyoyoyo
+github's freaking hard
+i'm done
