@@ -1,9 +1,6 @@
 asdfasdf
 ㅎㅎ
 ddd
-
-aasdf
-
-
-a
-sdfasdf
+eee
+fff
+ggg
