@@ -1,9 +1,5 @@
-asdfasdf
-ㅎㅎ
-ddd
+hello
+25wecode
 
-aasdf
-
-
-a
-sdfasdf
+2nd commit
+3th commit
