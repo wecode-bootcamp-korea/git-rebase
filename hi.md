@@ -1,9 +1,3 @@
-asdfasdf
-ㅎㅎ
-ddd
 
-aasdf
-
-
-a
-sdfasdf
+hi
+햣햣
