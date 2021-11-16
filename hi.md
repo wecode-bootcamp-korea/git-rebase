@@ -1,9 +1,1 @@
-asdfasdf
-ㅎㅎ
-ddd
-
-aasdf
-
-
-a
-sdfasdf
+지연비2
