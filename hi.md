@@ -1,6 +1,6 @@
 asdl;fkjas;ldkfj
 ka;lsjdfasd
-
-
-a
 sdfasdf
+신나는 종택님 세션!
+멋나요~
+잘 생겼어요~
