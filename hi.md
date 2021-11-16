@@ -1,6 +1,4 @@
-asdl;fkjas;ldkfj
-ka;lsjdfasd
+git rebase 수업
+git이랑 얼른 친해져야지...
+그래도 어렵지만 재밌네....터미널 사용...ㅎㅎ.. 
 
-
-a
-sdfasdf
