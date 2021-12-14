@@ -9,3 +9,8 @@ ddd
 
 
 adfasdf
+hello wecode :D
+
+Hate Git
+
+으어어어어
