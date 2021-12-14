@@ -1,6 +1,13 @@
+hello
 
+hi
+
+hehe
+a
+sdfasdf
 asdfasdf
 ㅎㅎ
+
 ddd
 
 1차 commit
