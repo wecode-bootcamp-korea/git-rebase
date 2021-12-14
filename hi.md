@@ -1,10 +1,3 @@
-asdl;fkjas;ldkfjㅈㄷㄷㅈㅈㄷㄹ
-ka;lsjdfasd
-ㄷㄹㅈㄷㄹㅈㄷㄹㅈㄷㄹㅈㄷㄹㅈㄹㅇㄹ
-ㅈㄷㄹㅈㄷㄹ
-aㅈㄷㄹㅈㄷㄹㅈㅈㄷㄹ
-sdfasdfㄷㄷㄷㄷ
-wefwefwefefwefwww
 asdfasdf
 ㅎㅎ
 dddㅈㄷㄹㅈㄷㄹㄹㄷ
