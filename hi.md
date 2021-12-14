@@ -1,11 +1,4 @@
+2nd wnd wnd
 
-asdfasdf
-ㅎㅎ
-ddd
-
-1차 commit
-2차 commit
-3차 commit
-
-
-adfasdf
+3rdrdrdr sdfsdfldkfjga./ldsfigha/SLGkfdh/slDkgfja/lsdkfjldskfjz;dlfgkhd
+>>>>>>> 5af938f (Add)
