@@ -1,14 +1,3 @@
-asdl;fkjas;ldkfj
-ka;lsjdfasd
-
-
-a
-sdfasdf
-
-asdfasdf
-ㅎㅎ
-ddd
-
-1차 commit
-2차 commit
-3차 commit
+hello, rebase :)
+hello, rebase2 :)
+hello, rebase3 :)
