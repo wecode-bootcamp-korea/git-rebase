@@ -1,3 +1,4 @@
 Hello! 28기!
-
 충돌만들자
+asdfasd
+fdsafasihdfoias yhncrb89qw4tiopvasweydfuv asyitfbyuiszpgtynasyui[detbh wㄱ슢ㅁ졷슘 ㅈㄷㄱ샤ㅐ 매;ㄴㅇㄹ허ㅑㅠㅁ녀ㅑㅐㄹ휴ㅗㅜㅐㅁㅇㄴ랴휴ㅗㅁㄴㅇㄹㄴㅇㄹqsidfjpasdjfvp09asefuv08aesudt90awert0u9aswerbuasbhnsiosdfbiosdjiojni;sdffu9f
