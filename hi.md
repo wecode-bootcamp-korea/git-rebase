@@ -1,7 +1,9 @@
 Hello! 28기!
 
+
 bangguseok!
 
 traveller!!
 
-second projects!!!
+
+충돌만들자
