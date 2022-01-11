@@ -1,3 +1,6 @@
 Hello! 28기!
 
-충돌만들자
+
+commit 메세지2
+commit 메세지3
+commit 메세지4
