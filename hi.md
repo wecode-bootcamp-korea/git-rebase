@@ -1,3 +1,3 @@
 Hello! 32기!
 
-Conflict
+충돌~~~~~~
