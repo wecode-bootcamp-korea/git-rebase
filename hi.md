@@ -4,4 +4,4 @@ Conflict!!!
 
 re hi
 
-hello
+bye
