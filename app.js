@@ -4,3 +4,4 @@ const inho = new Array();
 const junghoon = new Array();
 
 inho.push(junghoon[0]);
+console.log(inho + junghoon);
