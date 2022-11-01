@@ -1,3 +1,6 @@
 Hello! 38기!
 
-Conflict!
+2차 프로젝트 시작 ! 
+
+git rebase란 무엇인가
+
